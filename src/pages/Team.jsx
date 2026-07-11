@@ -4,7 +4,7 @@ const TEAM = [
   {
     name: "Rosemary Boahemaa Dwamena",
     initials: "RBD",
-    role: "Team Lead & Full-Stack Developer",
+    role: "Team Lead & Developer",
     bio: "99 little bugs in the code...",
     socials: {
       Facebook: "https://www.facebook.com/share/18xA92qCCi/?mibextid=wwXIfr",
@@ -18,7 +18,7 @@ const TEAM = [
     name: "Erica Dansowaa",
     initials: "ED",
     role: "Frontend Developer & Documentation Lead",
-    bio: "coming soon...",
+    bio: "My code works. Don't ask why....",
     socials: {
       Facebook: "https://www.facebook.com/share/1J2amxJsQE/",
       Instagram: "https://www.instagram.com/doitlikericka",
@@ -43,7 +43,7 @@ const TEAM = [
   {
     name: "Obed Yakpa",
     initials: "OY",
-    role: "Full-Stack Developer",
+    role: "Backend Lead & Developer",
     bio: "coming soon...",
     socials: {
       Facebook: "https://www.facebook.com/share/194HBTYmC4/",
