@@ -11,9 +11,9 @@ const NAV_LINKS = [
 
 // Placeholder socials — swap hrefs for real URLs later
 const SOCIALS = [
-  { icon: Github,   label: "GitHub",   href: "https://github.com" },
-  { icon: Twitter,  label: "Twitter",  href: "https://twitter.com" },
-  { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com" },
+  { icon: Github,   label: "GitHub",   href: "https://github.com/Rosieeee344/NovuTech_website" },
+  { icon: Twitter,  label: "Twitter",  href: "https://x.com/dwamen1dwamena?s=11" },
+  { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/rosemary-boahemaa-dwamena-80b3a03b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios" },
 ];
 
 export default function Footer() {
