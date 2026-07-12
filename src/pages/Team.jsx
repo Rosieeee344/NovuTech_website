@@ -44,7 +44,7 @@ const TEAM = [
     name: "Obed Yakpa",
     initials: "OY",
     role: "Backend Lead & Developer",
-    bio: "coming soon...",
+    bio: "I just build.",
     socials: {
       Facebook: "https://www.facebook.com/share/194HBTYmC4/",
       Instagram: "https://www.instagram.com/mr.yakpa90",
