@@ -28,25 +28,25 @@ const CHANNELS = [
     icon: Mail,
     label: "Email",
     value: "hello@novutech.dev",
-    href: "mailto:hello@novutech.dev",
+    href: "mailto:rdwamena36#gmail.com",
   },
   {
     icon: Github,
     label: "GitHub",
     value: "github.com/novutech",
-    href: "https://github.com/novutech",
+    href: "https://github.com/Rosieeee344/NovuTech_website",
   },
   {
     icon: Twitter,
     label: "Twitter / X",
     value: "@novutech",
-    href: "https://twitter.com/novutech",
+    href: "https://x.com/dwamen1dwamena?s=11",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
     value: "NovuTech",
-    href: "https://linkedin.com/company/novutech",
+    href: "https://www.linkedin.com/in/rosemary-boahemaa-dwamena-80b3a03b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
   },
 ];
 
